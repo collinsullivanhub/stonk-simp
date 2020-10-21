@@ -1,2 +1,2 @@
 # stonk-simp
-for evaluating stocks based on value-investing principles
+for evaluating stocks based on Warren Buffet's value-investing principles
